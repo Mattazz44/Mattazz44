@@ -78,7 +78,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExenlkZnNmaHlkMWp6cGx6d2VmcXBjcnBucDk0emtmN2MzcHVseGc3MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IrKijcddvjlrhLvT4P/giphy.gif" width="250"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2syNnNxb2ZhZWI5bTRyejhkcDdnM283ZjBtN3NlZjhzYzY0MmN1ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUNd9ULSvG6rVpB2Vy/giphy.gif" width="250"/>
 </p>
 
 ### ✨ *"Every great game starts from a random idea."*
