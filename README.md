@@ -74,11 +74,6 @@
 </div>
 
 ---
-# 🎧 Currently Listening To
-
-[![YouTube Music](https://img.shields.io/badge/YouTube_Music-Miku_Dayo-FF0000?style=for-the-badge&logo=youtubemusic&logoColor=white)](https://music.youtube.com/watch?v=3SjRcth6ko8&si=9-LGlAYI7WV0dS11)
-
----
 
 <div align="center">
 
