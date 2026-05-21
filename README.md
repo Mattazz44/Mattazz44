@@ -4,7 +4,7 @@
 
 ### *Software Engineering Student & Aspiring Game Developer*
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+games+and+creative+projects;Learning+Web+and+Mobile+Development;Exploring+UI%2FUX+and+Frontend+Design;aviation+and+Motorsport+enthusiast;Probably+debugging+something+at+2AM;love+miku+song+so+much;miku+dayo" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Mattdevries+is+online...;Building+games+and+creative+projects;Learning+Web+and+Mobile+Development;Exploring+UI%2FUX+and+Frontend+Design;aviation+and+Motorsport+enthusiast;Probably+debugging+something+at+2AM;love+miku+song+so+much;miku+dayo" />
 
 </div>
 
