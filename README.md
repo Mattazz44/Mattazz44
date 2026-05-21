@@ -1,6 +1,6 @@
 <div align="center">
 
-# Mattazz44
+ # mattdevries
 
 ### *Software Engineering Student & Aspiring Game Developer*
 
