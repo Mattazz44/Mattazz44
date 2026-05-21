@@ -1,6 +1,6 @@
 <div align="center">
 
- # mattdevries
+ # Bonjour, I'm mattdevries. Glad to see you here 👋
 
 ### *Software Engineering Student & Aspiring Game Developer*
 
