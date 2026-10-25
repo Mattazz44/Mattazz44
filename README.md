@@ -29,7 +29,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,kotlin,androidstudio,github,vscode,unrealengine" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,kotlin,androidstudio,github,vscode" />
 </div>
 
 ---
@@ -80,7 +80,4 @@
 <p align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2syNnNxb2ZhZWI5bTRyejhkcDdnM283ZjBtN3NlZjhzYzY0MmN1ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUNd9ULSvG6rVpB2Vy/giphy.gif" width="250"/>
 </p>
-
-### ✨ *"Every great game starts from a random idea."*
-
 </div>
