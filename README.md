@@ -1,16 +1,16 @@
 <div align="center">
 
- # Bonjour, I'm mattdevries. Glad to see you here 👋
+ # Bonjour, I'm mattdevries. Glad to see you here 
 
-### *Software Engineering Student & Aspiring Game Developer*
+### *Front-end dev,UI/UX Design and im still learning about backend-dev*
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=300&color=58A6FF&center=true&vCenter=true&width=600&lines=Mattdevries+is+online...;Building+games+and+creative+projects;Learning+Web+and+Mobile+Development;Exploring+UI%2FUX+and+Frontend+Design;Aviation+and+Motorsport+enthusiast;Probably+debugging+something+at+2AM;love+miku+song+so+much;miku+dayo" />
+<img src="https://readme-typing-svg.herokuapp.com?
 
 </div>
 
 ---
 
-# 🌌 About Me
+# About Me
 
 ```txt
 > Name        : Mat
@@ -25,7 +25,7 @@
 
 ---
 
-# ⚒️ Tech Stack
+# Tech Stack
 
 <div align="center">
 
@@ -34,7 +34,7 @@
 
 ---
 
-# 📊 GitHub Stats
+# GitHub Stats
 
 <div align="center">
 
@@ -45,7 +45,7 @@
 
 ---
 
-# 🐍 Contribution Snake
+# Contribution Snake
 
 <div align="center">
 
@@ -55,7 +55,7 @@
 
 ---
 
-# 🌐 Connect With Me
+# Connect With Me
 
 <div align="center">
 
