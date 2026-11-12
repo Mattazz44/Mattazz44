@@ -3,8 +3,7 @@
  # Bonjour, I'm mattdevries. Glad to see you here 
 
 ### *Front-end dev,UI/UX Design and im still learning about backend-dev*
-
-<img src="https://readme-typing-svg.herokuapp.com?
+ 
 
 </div>
 
@@ -33,16 +32,6 @@
 </div>
 
 ---
-
-# GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mattazz44&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mattazz44&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
-
 ---
 
 # Contribution Snake
